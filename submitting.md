@@ -38,8 +38,14 @@ You should see a list of labs and assignments, something like the following (cli
 
 > <a href="img/marmoset-inboxes.png"><img alt="screenshot" style="width: 400px;" src="img/marmoset-inboxes.png" /></a>
 
-Notice that each project has a **submit** link.  Click on the link for the lab or assignment you want to submit.  You should see a page something like the following:
+Click on the Project link for the lab or assignment you want to submit.  You should see a page something like the following:
+
+> <a href="img/marmoset-project.png"><img alt="screenshot" style="width: 400px;" src="img/marmoset-project.png" /></a>
+
+Click on the **Upload new submission** link.  You should see a page something like the following:
 
 > <a href="img/marmoset-submit.png"><img alt="screenshot" style="width: 400px;" src="img/marmoset-submit.png" /></a>
 
-You can ignore the warning about automatic submission not being enabled.  At this point you should be able to upload the **solution.zip** file you created earlier.
+At this point you should be able to upload the **solution.zip** file you created earlier.  Once you have successfully submitted the file, you should see a confirmation message:
+
+> <a href="img/marmoset-submit-success.png"><img alt="screenshot" style="width: 400px;" src="img/marmoset-submit-success.png" /></a>

@@ -34,7 +34,7 @@ Next, log into Marmoset.  The URL is
 
 > [https://cs.ycp.edu/marmoset](https://cs.ycp.edu/marmoset)
 
-You should see a list of labs and assignments, something like the following (click for full size):
+Click on the course link.  You should see a list of labs and assignments, something like the following (click for full size):
 
 > <a href="img/marmoset-inboxes.png"><img alt="screenshot" style="width: 400px;" src="img/marmoset-inboxes.png" /></a>
 

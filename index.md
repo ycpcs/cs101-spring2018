@@ -12,6 +12,7 @@ All information about the course will be posted here.
 
 * [Syllabus](syllabus.html)
 * [Schedule](schedule.html)
+* [Research study](study.html)
 * [How to succeed in CS 101](success.html)
 * [Assignments](assign/index.html)
 * [Labs](labs/index.html)
@@ -26,4 +27,4 @@ All information about the course will be posted here.
 
 ## News
 
-* **Jan 18** &mdash; Welcome back!
+* **Jan 18** &mdash; Welcome back!  Please read [How to succeed in CS 101](success.html) and a description of a [research study](study.html) being conducted this semester.

@@ -178,6 +178,9 @@ div.multicol:after {
 	clear: both;
 }
 
+/* This is needed only because the divs used for the multicolumn links
+ * layout prevents the heading margin from being merged with the list
+ * margin. */
 .multicol-links {
 	margin-top: 0;
 	margin-bottom: 0;

@@ -12,9 +12,6 @@
 	right: 0;
 }
 
-#content {
-}
-
 #back, #content {
 	background: #f0f0f0;
 	max-width: 52em;
@@ -25,7 +22,6 @@
 }
 
 #header {
-	background: #060;
 	font-size: 200%;
 	margin-top: 10px;
 	margin-bottom: 30px;
@@ -34,11 +30,11 @@
 #footer {
 	margin-top: 30px;
 	padding: 10px 30px;
-	background: #060;
 	color: black;
 }
 
 #header, #footer {
+	background: #060;
 	color: #8f8;
 	text-align: center;
 	border-top: 4px solid #0b0;
@@ -68,6 +64,14 @@
 /* Minor tweak to get the CC image link to align nicely with the footer text */
 a.cc-img {
 	vertical-align: -2px;
+}
+
+a {
+	color: #060;
+}
+
+a:visited {
+	color: #040;
 }
 
 html {
@@ -164,36 +168,12 @@ dt {
 	font-size: 80%;
 }
 
-.topic-sc, .topic-art, .topic-mus, .topic-hum, .topic-sci, .topic-phy {
-	width: 2em;
-	display: inline-block;
-	text-align: center;
+div.multicol div {
+	float: left;
 }
 
-.topic-sc {
-	background: yellow;
-}
-
-.topic-art {
-	background: #4169E1;
-	color: white;
-}
-
-.topic-mus {
-	background: #deb887;
-}
-
-.topic-hum {
-	background: #008080;
-	color: white;
-}
-
-.topic-sci {
-	background: #cc0033;
-	color: white;
-}
-
-.topic-phy {
-	background: #9900cc;
-	color: white;
+div.multicol:after {
+	content: '';
+	display: block;
+	clear: both;
 }

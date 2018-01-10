@@ -177,3 +177,8 @@ div.multicol:after {
 	display: block;
 	clear: both;
 }
+
+.multicol-links {
+	margin-top: 0;
+	margin-bottom: 0;
+}

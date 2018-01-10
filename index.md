@@ -12,7 +12,7 @@ All information about the course will be posted here.
 
 <div class="multicol">
 <div>
-<ul>
+<ul class="multicol-links">
   <li><a href="syllabus.html">Syllabus</a></li>
   <li><a href="schedule.html">Schedule</a></li>
   <li><a href="study.html">Research study</a></li>
@@ -23,7 +23,7 @@ All information about the course will be posted here.
 </ul>
 </div>
 <div>
-<ul>
+<ul class="multicol-links">
   <li><a href="tutoring.html">Tutoring</a></li>
   <li><a href="submitting.html">Submitting labs and assignments</a></li>
   <li><a href="refcard.pdf">Reference card [PDF]</a></li>

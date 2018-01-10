@@ -8,7 +8,7 @@ This page lists the reading assignments, CloudCoder exercises, and recommended t
 Make sure that you do the readings and CloudCoder exercises for each class *before* you come to class!  Please note that the CloudCoder exercises are very important for learning the material.
 
 * The CloudCoder exercises marked with an asterisk (\*) are required: make sure you complete these before the class for which they are assigned.  The exercises not marked with an asterisk are optional, but we *strongly* recommend that you do them.  You will earn a small bonus for completing the optional exercises.
-* The CloudCoder exercises marked with a gold star (![gold star](img/goldstar-tiny.png)) are *challenge problems*.  They are harder than the normal CloudCoder exercises; completing them demonstrates significant mastery of the course topics.  You should definitely try and complete these!
+* The CloudCoder exercises marked with a gold star (![gold star](img/goldstar-tiny.png)) are *challenge problems*.  They are harder than the normal CloudCoder exercises; completing them demonstrates significant mastery of the course topics.  You should definitely try to complete these!
 
 The textbook exercises are optional, but are a very good way to get extra practice.
 

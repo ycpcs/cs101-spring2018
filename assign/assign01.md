@@ -3,9 +3,9 @@ layout: default
 title: "Assignment 1: Freefalling"
 ---
 
-Design due: **Thursday, January 26th** at the beginning of class
+Design due: **Thursday, January 25th** at the beginning of class
 
-Program due: **Tuesday, Jan 31st by 11:59 PM**
+Program due: **Tuesday, Jan 30th by 11:59 PM**
 
 Getting Started
 ===============
@@ -46,7 +46,7 @@ Your Tasks
 
 Based on the requirements described below in the "Program" section, fill out a [design template](../design-template.pdf).  Consider what the input and output of the program are, and what steps are necessary to compute the output from the input.
 
-The design is due at the beginning of class on **Thursday, January 26th**.
+The design is due at the beginning of class on **Thursday, January 25th**.
 
 ## Program
 
@@ -138,7 +138,7 @@ The design is worth up to 15 points.  The design will be graded for effort rathe
 Submitting
 ==========
 
-Your design will be checked off in class on the day the designs are due.
+Your design will be collected in class on the day that designs are due.
 
 To submit your program, make sure your **Freefall.cpp** file is saved, and in the Cygwin window type the command
 
@@ -148,10 +148,8 @@ Enter your Marmoset username and password (which you should have received by ema
 
 If the **make submit** command does not work, you can [submit using the web interface](../submitting.html) (see the link for details).
 
-**Important**: Make sure that you check the file(s) you submitted to ensure that they are correct. Log into the server using the following URL (also linked off the course homepage):
+Make sure that you check the file(s) you submitted to ensure that they are correct.  See the instructions for [Verifying your submission](../submitting.html#verifying-your-submission).
 
-> <https://cs.ycp.edu/marmoset/>
-
-You should see a list of labs and assignments. In the row for **assign01**, click the link labeled **view**. You will see a list of your submissions. Download the most recent one (which should be listed first). Verify that it contains the correct files.
-
-**You are responsible for making sure that your submission contains the correct file(s).**
+<div class="callout">
+<b>Important</b>: It is your responsibility to verify that you submitted the correct files.  You may receive a grade of 0 for incorrectly submitted work.
+</div>

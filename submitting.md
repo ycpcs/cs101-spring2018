@@ -49,3 +49,19 @@ Click on the **Upload new submission** link.  You should see a page something li
 At this point you should be able to upload the **solution.zip** file you created earlier.  Once you have successfully submitted the file, you should see a confirmation message:
 
 > <a href="img/marmoset-submit-success.png"><img alt="screenshot" style="width: 400px;" src="img/marmoset-submit-success.png" /></a>
+
+At this point you should verify that you submitted the correct files: see the next section.
+
+# Verifying your submission
+
+Once you have submitted your work, you should verify that you submitted the correct files.  Start by logging into Marmoset and following the link to the CS 101 course.  Click on the lab or assignment you want to verify.  You should see a list of your submissions that looks something like the following (click for full size):
+
+> <a href="img/marmoset-submissions.png"><img alt="screenshot" style="width: 400px;" src="img/marmoset-submissions.png" /></a>
+
+Click the link for the submission you would like to check (e.g., "Submission 1").  You should see a list of files:
+
+> <a href="img/marmoset-submission-files.png"><img alt="screenshot" style="width: 400px;" src="img/marmoset-submission-files.png" /></a>
+
+Click on the file you want to verify (e.g., "hello.cpp"):
+
+> <a href="img/marmoset-submission-file.png"><img alt="screenshot" style="width: 400px;" src="img/marmoset-submission-file.png" /></a>

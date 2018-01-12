@@ -10,8 +10,3 @@ The ["How to" guide](design-howto.pdf) explains each section of the design templ
 Example designs:
 
 * [Lab 1 Design](lab01-design.pdf)
-* [Assignment 2, MS1 example design](assign02ms1.pdf)
-* [Assignment 2, MS2 example design](assign02ms2.pdf)
-* [Assignment 3 design](assign03.pdf)
-* [Lab 15, mean function design (input/output)](lab15mean.pdf)
-* [Assignment 4, data representation](assign04datarepresentation.pdf)

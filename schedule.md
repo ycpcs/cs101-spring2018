@@ -45,3 +45,7 @@ Apr 24 | [Lecture 19: Composition](lectures/lecture19.html)<br>Chapter 8, *Struc
 Apr 26 |  |  &mdash; | &mdash;
 May 1 | Exam review | &mdash; | &mdash;
 May 3 | **Exam 4**
+
+<!-- vim:set wrap: -->
+<!-- vim:set linebreak: -->
+<!-- vim:set nolist: -->

@@ -153,3 +153,7 @@ Make sure that you check the file(s) you submitted to ensure that they are corre
 <div class="callout">
 <b>Important</b>: It is your responsibility to verify that you submitted the correct files.  You may receive a grade of 0 for incorrectly submitted work.
 </div>
+
+<!-- vim:set wrap: -->
+<!-- vim:set linebreak: -->
+<!-- vim:set nolist: -->

@@ -20,11 +20,13 @@ All information about the course will be posted here.
   <li><a href="assign/index.html">Assignments</a></li>
   <li><a href="labs/index.html">Labs</a></li>
   <li><a href="resources.html">Resources</a></li>
+  <li><a href="tutoring.html">Tutoring</a></li>
 </ul>
 </div>
 <div>
 <ul class="multicol-links">
-  <li><a href="tutoring.html">Tutoring</a></li>
+  <li><a href="https://cs.ycp.edu/cloudcoder">CloudCoder (practice problems)</a></li>
+  <li><a href="https://cs.ycp.edu/marmoset">Marmoset (assignment and lab submission)</a></li>
   <li><a href="submitting.html">Submitting labs and assignments</a></li>
   <li><a href="refcard.pdf">Reference card [PDF]</a></li>
   <li><a href="design-template.pdf">Design template [PDF]</a></li>
@@ -38,3 +40,7 @@ All information about the course will be posted here.
 ## News
 
 * **Jan 18** &mdash; Welcome back!  Please read [How to succeed in CS 101](success.html) and a description of a [research study](study.html) being conducted this semester.
+
+<!-- vim:set wrap: -->
+<!-- vim:set linebreak: -->
+<!-- vim:set nolist: -->

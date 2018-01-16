@@ -5,12 +5,16 @@ title: "Assignments"
 
 This page links to homework assignments.
 
+Designs are due (hard copy) at the beginning of class on the indicated day.
+
+Code is due (<a href="../submitting.html">submitted to Marmoset</a>) by 11:59 PM on the indicated day.
+
 Assignment | File | Due date(s)
 ---------- | ---- | -----------
-[Assignment 1: Freefalling](assign01.html) | [CS101\_Assign01.zip](CS101_Assign01.zip) | Design: Thurs, Jan 25th at beginning of class<br>Program: Tues, Jan 30th by 11:59 PM
-[Assignment 2: Let's Make a Deal](assign02.html) | [CS101\_Assign02.zip](CS101_Assign02.zip) | MS1 Design: Tues, Feb 6th<br>MS1 Code: Fri, Feb 9th<br>MS2 Design: Thurs, Feb 15th<br>MS2 Code: Fri, Feb 23rd
-[Assignment 3: Loop Exercises](assign03.html) | n/a | Thursday, Mar 8th by 11:59 PM
-[Assignment 4: Tipping Dominoes](assign04.html) | [CS101\_Assign04.zip](CS101_Assign04.zip) | TBD
+[Assignment 1: Freefalling](assign01.html) | [CS101\_Assign01.zip](CS101_Assign01.zip) | Design: Thurs, Jan 25th<br>Code: Tues, Jan 30th
+[Assignment 2: Let's Make a Deal](assign02.html) | [CS101\_Assign02.zip](CS101_Assign02.zip) | MS1 Design: Tues, Feb 6th<br>MS1 Code: Fri, Feb 9th<br>MS2 Design: Thurs, Feb 15th<br>MS2 Code/Report: Fri, Feb 23rd
+[Assignment 3: Loop Exercises](assign03.html) | n/a | Thursday, Mar 8th
+[Assignment 4: Tipping Dominoes](assign04.html) | [CS101\_Assign04.zip](CS101_Assign04.zip) | Design: Tues, Mar 20th<br>Code: Tues, Mar 27th
 
 <!-- vim:set wrap: ­-->
 <!-- vim:set linebreak: -->

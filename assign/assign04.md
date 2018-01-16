@@ -3,63 +3,42 @@ layout: default
 title: "Assignment 4: Falling Dominoes"
 ---
 
-Milestone 1 due **Monday, March 17th**
+Design due in class on **Tuesday, Mar 20th**
 
-Milestone 2 due **Monday, March 24th**
+Code due **Tues, Mar 27th** by 11:59 PM
 
 # Getting Started
 
 Start by downloading [CS101\_Assign04.zip](CS101_Assign04.zip), saving it in the directory **H:\\CS101**.
 
-There are two milestones.
+Then run the commands
 
-## Milestone 1
+```
+cd h:
+cd CS101
+unzip CS101_Assign04.zip
+```
 
-In the first milestone, you will begin writing a program to simulate falling dominos.  You will add code to the file **FallingDominoes.cpp**.
+You should now have a directory called **CS101\_Assign04** containing the assignment files.
 
-Your program should allow the user to determine the initial configuration of the "playing field" consisting of 10 positions. Once the configuration has been entered by the user, the program should print a line of text which is a "picture" of the configuration.
+Add your code to the file **FallingDominoes.cpp**.
 
-Here is an example run (user input in bold):
+# Your task
 
-<pre>
-Enter the initial configuration:
-Position 1 (0=empty, 1=upright, 2=tipping, 3=horizontal): <b>1</b>
-Position 2 (0=empty, 1=upright, 2=tipping, 3=horizontal): <b>1</b>
-Position 3 (0=empty, 1=upright, 2=tipping, 3=horizontal): <b>0</b>
-Position 4 (0=empty, 1=upright, 2=tipping, 3=horizontal): <b>1</b>
-Position 5 (0=empty, 1=upright, 2=tipping, 3=horizontal): <b>2</b>
-Position 6 (0=empty, 1=upright, 2=tipping, 3=horizontal): <b>3</b>
-Position 7 (0=empty, 1=upright, 2=tipping, 3=horizontal): <b>0</b>
-Position 8 (0=empty, 1=upright, 2=tipping, 3=horizontal): <b>1</b>
-Position 9 (0=empty, 1=upright, 2=tipping, 3=horizontal): <b>2</b>
-Position 10 (0=empty, 1=upright, 2=tipping, 3=horizontal): <b>1</b>
+In this assignment, you will write a program that allows the user to simulate falling dominoes.
 
-Initial configuration:
-&vert;&vert; &vert;/&#95; &vert;/&vert;
-</pre>
+Your program should start by allowing the user to determine the initial configuration of the "playing field" consisting of 10 positions. Once the configuration has been entered by the user, the program should print a line of text which is a "picture" of the initial configuration.
 
-When printing out the state of the playing field, each upright domino should be represented by a "\|" character, each tipping domino by "/", each horizontal domino by "\_", and each empty position by a blank space.
+Next, the program should simulate what happens when the first domino is pushed over: in other words, the simulation begins by changing the domino at position 1 from upright to tipping (if it was initially upright).
 
-### Hints
+After the first domino has been tipped, the simulation should run for exactly **10** time steps.  The rules of the simulation are as follows:
 
-Use an array of integer values to represent the playing field. The element at position 0 is position 1, the element at index 1 is position 2, etc. The value of each element determines what is at that position: 0 for an empty space, 1 for an upright domino, 2 for a tipping domino, 3 for a horizontal domino.
+-   There are 10 positions, with position 1 being the leftmost position
+-   The simulation begins by changing the domino at position 1 to "tipping"
+-   On each timestep, each tipping domino will cause its neighbor to the right to change from upright to tipping (if the neighbor is upright); then the tipping domino will change to horizontal
+-   At the end of each timestep, the program should print a picture of the current simulation state.
 
-Each iteration of the loop that prints the playing field should print a character representing one position. Print "\|" if the position has an upright domino, "/" if the position has a tipping domino, etc.
-
-### Grading
-
-Out of 50 points:
-
--   Declaration of an array to represent the playing field: 10
--   Loop to read a value for each position of the playing field: 10
--   Store each position value in the appropriate array element: 15
--   Loop to print a "picture" (line of text) of the playing field: 15
-
-## Milestone 2
-
-In this milestone, you will allow the user to simulate what happens when the first domino is pushed over: in other words, the simulation begins by changing the domino at position 1 from upright to tipping (if it was initially upright).
-
-After the first domino has been tipped, the simulation should run for exactly **10** time steps.
+When printing out the simulation state, each upright domino should be represented by a "\|" character, each tipping domino by "/", each horizontal domino by "\_", and each empty position by a blank space.
 
 Here is an example run (user input in bold):
 
@@ -74,6 +53,9 @@ Position 7 (0=empty, 1=upright, 2=tipping, 3=horizontal): <b>1</b>
 Position 8 (0=empty, 1=upright, 2=tipping, 3=horizontal): <b>1</b>
 Position 9 (0=empty, 1=upright, 2=tipping, 3=horizontal): <b>0</b>
 Position 10 (0=empty, 1=upright, 2=tipping, 3=horizontal): <b>1</b>
+
+Initial configuration:
+&vert;&vert;&vert; /&vert;&vert;&vert; &vert;
 
 Tipping over domino 0:
 /&vert;&vert; /&vert;&vert;&vert; &vert;
@@ -100,15 +82,13 @@ Time step 10:
 &#95;&#95;&#95; &#95;&#95;&#95;&#95; &vert;
 </pre>
 
-The rules of the simulation are as follows:
-
--   There are 10 positions, with position 1 being the leftmost position
--   The simulation begins by changing the domino at position 1 to "tipping"
--   On each timestep, each tipping domino will cause its neighbor to the right to change from upright to tipping (if the neighbor is upright); then the tipping domino will change to horizontal
-
 ### Hints
 
-Each time step should be implemented as two **for** loops:
+To represent the simulation data, use an array of integer values to represent the playing field. The element at position 0 is position 1, the element at index 1 is position 2, etc. The value of each element determines what is at that position: 0 for an empty space, 1 for an upright domino, 2 for a tipping domino, 3 for a horizontal domino.
+
+Each iteration of the loop that prints the playing field should print a character representing one position. Print "\|" if the position has an upright domino, "/" if the position has a tipping domino, etc.
+
+To implement the simulation, each time step should be implemented as two **for** loops:
 
 -   The first loop finds each tipping domino, changes its right neighbor to "ready to tip" (if it is upright), and then changes the original domino to horizontal.
 -   The second loop finds each "ready to tip" domino and changes it to "tipping".
@@ -121,11 +101,14 @@ Use a third for loop to print out the configuration of the playing field after t
 
 Out of 100 points:
 
--   Allow user to enter initial configuration (from milestone 1): 20
+-   Declaration of an array to represent the playing field: 10
+-   Loop to read a value for each position of the playing field: 10
+-   Store each position value in the appropriate array element: 10
+-   Loop to print a "picture" (line of text) of the playing field: 10
 -   Tip first domino, print dominos: 10
 -   One timestep:
-    -   Loop to change successors of tipping dominoes to "ready to tip": 20
-    -   Loop to change "ready to tip" to tipping: 20
+    -   Loop to change successors of tipping dominoes to "ready to tip": 10
+    -   Loop to change "ready to tip" to tipping: 10
     -   Print dominos at end of timestep: 10
 -   Loop to simulate 10 timesteps: 20
 
@@ -133,20 +116,14 @@ Out of 100 points:
 
 To submit your work, make sure your **FallingDominos.cpp** file is saved, and in the Cygwin window type the command
 
-    make submit_ms1
-
-to submit Milestone 1, or
-
-    make submit_ms2
-
-to submit Milestone 2.
+    make submit
 
 Enter your Marmoset username and password (which you should have received by email.) Note that your password will not be echoed to the screen. Make sure that after you enter your username and password, you see a message indicating that the submission was successful.
 
-**Important**: Make sure that you check the file(s) you submitted to ensure that they are correct. Log into the server using the following URL (also linked off the course homepage):
+If the **make** command above does not work, you can [submit using the web interface](../submitting.html) (see the link for details).
 
-> <https://cs.ycp.edu/marmoset/>
+Make sure that you check the file(s) you submitted to ensure that they are correct.  See the instructions for [Verifying your submission](../submitting.html#verifying-your-submission).
 
-You should see a list of labs and assignments. In the row for **assign04\_ms1** or **assign04\_ms2**, click the link labeled **view**. You will see a list of your submissions. Download the most recent one (which should be listed first). Verify that it contains the correct files.
-
-**You are responsible for making sure that your submission contains the correct file(s).**
+<div class="callout">
+<b>Important</b>: It is your responsibility to verify that you submitted the correct files.  You may receive a grade of 0 for incorrectly submitted work.
+</div>

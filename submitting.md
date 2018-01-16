@@ -54,7 +54,7 @@ At this point you should verify that you submitted the correct files: see the ne
 
 # Verifying your submission
 
-Once you have submitted your work, you should verify that you submitted the correct files.  Start by logging into Marmoset and following the link to the CS 101 course.  Click on the lab or assignment you want to verify.  You should see a list of your submissions that looks something like the following (click for full size):
+Once you have submitted your work, you should verify that you submitted the correct files.  Start by logging into Marmoset and following the link to the CS 101 course.  Click on the lab or assignment you want to verify (e.g., **lab01**, **assign02\_ms1**, **assign04**, etc.)  You should see a list of your submissions that looks something like the following (click for full size):
 
 > <a href="img/marmoset-submissions.png"><img alt="screenshot" style="width: 400px;" src="img/marmoset-submissions.png" /></a>
 

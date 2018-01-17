@@ -39,7 +39,7 @@ All information about the course will be posted here.
 
 ## News
 
-* **Jan 18** &mdash; Welcome back!  Please read [How to succeed in CS 101](success.html) and a description of a [research study](study.html) being conducted this semester.
+* **Jan 18** &mdash; Welcome back!  Please read [How to succeed in CS 101](success.html) and a description of a [research study](study.html) being conducted this semester.  Also, in class we will ask you to complete a [prior experience survey](https://goo.gl/forms/zzfjES8HZK9TEthK2).
 
 <!-- vim:set wrap: -->
 <!-- vim:set linebreak: -->

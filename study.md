@@ -14,4 +14,4 @@ The following list explains what you should know about the study.
 3. None of the data will be analyzed until after the course is over and final grades have been submitted.
 4. All of the data will be anonymized (stripped of information identifying specific students) before it is analyzed for the study.
 5. When the results of the study are published, no information about the identities of students will be revealed.
-6. Participation in the study is voluntary. You may opt out of having your data used in the study using the following web form: \[link to opt-out form\]. Information about which students have opted out will be held until after the course had ended, and will not be revealed to us in any case.
+6. Participation in the study is voluntary. You may opt out of having your data used in the study using the following web form: [link to opt-out form](https://goo.gl/forms/oHQdLV0hRCAFXpww2). Information about which students have opted out will be held until after the course had ended, and will not be revealed to us in any case.

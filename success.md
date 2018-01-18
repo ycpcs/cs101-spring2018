@@ -5,6 +5,8 @@ title: "How to succeed in CS 101"
 
 This document explains how to succeed in CS 101.  Please read this carefully, and refer back to it as you proceed in the course!
 
+> [Presentation slides](How to succeed in CS 101.pdf) (PDF)
+
 # Why we wrote this
 
 Introductory programming courses (such as this course, CS 101) [typically have a high failure rate](http://cs.au.dk/~mec/publications/journal/25--bulletin2007.pdf).  Many students find that learning to program is difficult, and that study techniques that work in other courses are not effective in a programming course.

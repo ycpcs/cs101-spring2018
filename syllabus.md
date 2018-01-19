@@ -12,7 +12,7 @@ Staff:
 
 > Section(s) | Instructor | Office hours
 > ---------- | ---------- | ------------
-> 101, 102, 103, 106 | David Hovemeyer, <dhovemey@ycp.edu> | M/W 1-3, F 11-12, or by arrangement
+> 101, 102, 103, 106 | David Hovemeyer, <dhovemey@ycp.edu> | In KEC 113: M/W 1-3, F 11-12, or by arrangement
 > 104, 105 | Deepti Jindal, <djindal@ycp.edu> | W 1-2 (Location TBD, please email to arrange meeting)
 
 Course description

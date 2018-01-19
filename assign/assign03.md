@@ -26,7 +26,7 @@ The exercises:
 9. &mdash;
 10. &mdash;
 11. &mdash;
-12. &mdash;
+12. [count evens](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=874)
 13. [First digit](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=872)
 14. [Largest digit](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=868)
 15. [Perfect Number](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=867)

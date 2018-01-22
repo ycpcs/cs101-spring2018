@@ -7,7 +7,7 @@ Due: Friday, March 9th by 11:59 PM
 
 # Your Task
 
-Your task for this assignment is to complete the following CloudCoder exercises.  We <em>strongly</em> recommend you do them in order.  The later exercises are more challenging than the earlier ones.
+Your task for this assignment is to complete the following CloudCoder exercises.  We <em>strongly</em> recommend you do them in order.  The later exercises are (in general) more challenging than the earlier ones.
 
 <div class="callout">
 <b>Important</b>: Unlike the other assignments, this assignment is entirely individual.  You may <em>not</em> collaborate with or get help from other students.  You may ask an instructor or tutor for help.
@@ -23,7 +23,7 @@ The exercises:
 6. &mdash;
 7. &mdash;
 8. [Print divisors](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=869)
-9. &mdash;
+9. [powers of 2](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=878)
 10. &mdash;
 11. &mdash;
 12. [count evens](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=874)

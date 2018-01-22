@@ -33,7 +33,7 @@ The exercises:
 
 ## Hints
 
-Since all of the exercise (other than the first) involve loops, you will want to
+Since all of the exercises (other than the first) involve loops, you will want to
 
 1. Think about a general strategy for solving the problem, and write down an outline of your strategy
 2. Consider whether a [loop recipe](../lectures/lecture06.html#loop-recipes) is appropriate

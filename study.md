@@ -3,7 +3,7 @@ layout: default
 title: "Spring 2018 Research Study"
 ---
 
-This semester in CS 101 we are making a small change to the course and collecting data to evaluate its effect.  All of the topics covered in previous offerings of the course will still be covered, and the assignments, labs, and other activities will be substantially the same as in previous semesters.
+This semester in CS 101 we are making a small change to the course and collecting data to evaluate its effect.  This change will not alter the topics covered in the course, and the assignments, labs, and other activities will be substantially the same as the previous (Spring 2017) offering of the course.
 
 The goal of this study is to assess the effectiveness of the instructional techniques we use in CS 101, in order to provide students the best instruction and chance of success in the course.
 

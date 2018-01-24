@@ -10,9 +10,9 @@ We covered the **int** data type in [Lecture 1](lecture01.html).
 
 Two other important numeric data types:
 
-> **float** - real numbers in the range (approximately) +/- 10^-46 to 10^38
+> **float** - real numbers in the range (approximately) +/- 10<sup>-46</sup> to 10<sup>38</sup>
 >
-> **double** - real numbers in the range (approximately) +/- 10^-324 to 10^308
+> **double** - real numbers in the range (approximately) +/- 10<sup>-324</sup> to 10<sup>308</sup>
 
 Unlike the int type, float and double are not limited to integer values, and can represent fractions.
 

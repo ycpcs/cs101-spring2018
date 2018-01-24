@@ -185,3 +185,8 @@ div.multicol:after {
 	margin-top: 0;
 	margin-bottom: 0;
 }
+
+/* prevent extra margin being added for figure elements produced by the code highlighter */
+figure.highlight {
+	margin: 0;
+}

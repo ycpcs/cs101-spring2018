@@ -17,7 +17,7 @@ The exercises:
 
 1. [Echo input](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=870)
 2. [Count up](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=873)
-3. &mdash;
+3. [Count down](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=880)
 4. &mdash;
 5. &mdash;
 6. &mdash;

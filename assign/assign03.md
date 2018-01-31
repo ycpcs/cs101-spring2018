@@ -33,6 +33,8 @@ The exercises:
 
 ## Hints
 
+Don't print a prompt when reading input values.  CloudCoder does not require a prompt, and the text of the prompt is likely to be misinterpreted as the program's intended output, causing tests to fail.
+
 Since all of the exercises (other than the first) involve loops, you will want to
 
 1. Think about a general strategy for solving the problem, and write down an outline of your strategy

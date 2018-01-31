@@ -3,4 +3,6 @@ layout: default
 title: "Practice Exams"
 ---
 
-Practice exams coming soon!
+This page links to practice exams.
+
+[Exam 1, Spring 2017](cs101-spring2017-exam01.pdf), [Programming zipfile](CS101_Exam01.zip)

@@ -19,7 +19,7 @@ The exercises:
 2. [Count up](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=873)
 3. [plus four](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=882)
 4. [skip counting](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=881)
-5. &mdash;
+5. [triangle counting](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=883)
 6. [Count down](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=880)
 7. &mdash;
 8. [Print divisors](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=869)

@@ -12,3 +12,4 @@ Example designs:
 * [Lab 1 Design](lab01-design.pdf)
 * [Assignment 1 Design](assign1-design.pdf)
 * [Lab 3 Design](lab03-design.pdf)
+* [Lab 4 Design](lab04-design.pdf)

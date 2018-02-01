@@ -8,8 +8,6 @@ int main(void) {
 	
 	double price; // FIXME: bad idea to store money in floating point var
 	
-	balloon = 1;
-	
 	if (age < 7) {
 		price = 4.50;
 	} else {

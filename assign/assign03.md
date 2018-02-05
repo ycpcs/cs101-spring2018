@@ -29,10 +29,10 @@ The exercises:
 8. [Print divisors](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=869)
 9. [powers of 2](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=878)
 10. &mdash;
-11. &mdash;
-12. [count evens](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=874)
-13. [First digit](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=872)
-14. [Largest digit](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=868)
+11. [count evens](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=874)
+12. [First digit](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=872)
+13. [Largest digit](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=868)
+14. [is undulating?](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=885)
 15. [Perfect Number](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=867)
 16. [is kth power?](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=884)
 

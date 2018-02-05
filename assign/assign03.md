@@ -5,6 +5,10 @@ title: "Assignment 3: Loop Exercises"
 
 Due: Friday, March 9th by 11:59 PM
 
+<div class="callout">
+Note that late submissions will <em>not</em> be accepted for this assignment.
+</div>
+
 # Your Task
 
 Your task for this assignment is to complete the following CloudCoder exercises.  We <em>strongly</em> recommend you do them in order.  The later exercises are (in general) more challenging than the earlier ones.
@@ -30,6 +34,7 @@ The exercises:
 13. [First digit](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=872)
 14. [Largest digit](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=868)
 15. [Perfect Number](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=867)
+16. [is kth power?](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=884)
 
 ## Hints
 

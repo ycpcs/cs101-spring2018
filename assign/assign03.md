@@ -19,22 +19,22 @@ Your task for this assignment is to complete the following CloudCoder exercises.
 
 The exercises:
 
-1. [Echo input](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=870)
-2. [Count up](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=873)
-3. [plus four](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=882)
-4. [skip counting](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=881)
-5. [triangle counting](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=883)
-6. [Count down](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=880)
-7. &mdash;
-8. [Print divisors](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=869)
-9. [powers of 2](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=878)
+1. [Echo input](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=870) <!-- 23:40 -->
+2. [Count up](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=873) <!-- 23:41 -->
+3. [plus four](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=882) <!-- 23:42 -->
+4. [skip counting](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=881) <!-- 23:43 -->
+5. [triangle counting](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=883) <!-- 23:44 -->
+6. [Count down](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=880) <!-- 23:45 -->
+7. [mirror pairs](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=886)  <!-- 23:46 -->
+8. [Print divisors](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=869) <!-- 23:47 -->
+9. [powers of 2](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=878) <!-- 23:48 -->
 10. &mdash;
-11. [count evens](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=874)
-12. [First digit](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=872)
-13. [Largest digit](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=868)
-14. [is undulating?](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=885)
-15. [Perfect Number](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=867)
-16. [is kth power?](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=884)
+11. [count evens](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=874) <!-- 23:50 -->
+12. [First digit](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=872) <!-- 23:51 -->
+13. [Largest digit](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=868) <!-- 23:52 -->
+14. [is undulating?](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=885) <!-- 23:53 -->
+15. [Perfect Number](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=867) <!-- 23:54 -->
+16. [is kth power?](https://cs.ycp.edu/cloudcoder/#exercise?c=17,p=884) <!-- 23:55 -->
 
 ## Hints
 

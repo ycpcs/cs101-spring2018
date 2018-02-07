@@ -39,6 +39,7 @@ All information about the course will be posted here.
 
 ## News
 
+* **Feb 7** &mdash; A solution to the first practice exam has been posted on the [Practice Exams](practice/index.html) page.
 * **Jan 31** &mdash; Reminders:
     * The design for [Assignment 2](assign/assign02.html) Milestone 1 is due at the beginning of class on Tuesday, Feb 6th.  You will need to turn in a hard copy of your design.
     * Exam 1 will be given in class on Tuesday, Feb 13th.  A practice exam is posted on the [Practice Exams](practice/index.html) page.

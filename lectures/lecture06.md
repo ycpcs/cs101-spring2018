@@ -21,7 +21,7 @@ If your program gets each of these characteristics right, you will have a loop t
 Example: multiplying two non-negative integers
 ----------------------------------------------
 
-Here is an algorithm to multiply two non-negative integers based on repeated addition:
+Here is an algorithm to multiply two non-negative integers **a** and **b** based on repeated addition:
 
 > ![image](images/firstAlgorithm.png)
 

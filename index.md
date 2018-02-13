@@ -39,6 +39,7 @@ All information about the course will be posted here.
 
 ## News
 
+* **Feb 13** &mdash; The due date for the [Assignment 2](assign/assign02.html), Milestone 2 design artifact has been moved to **Tuesday, Feb 20th**.
 * **Feb 7** &mdash; A solution to the first practice exam has been posted on the [Practice Exams](practice/index.html) page.
 * **Jan 31** &mdash; Reminders:
     * The design for [Assignment 2](assign/assign02.html) Milestone 1 is due at the beginning of class on Tuesday, Feb 6th.  You will need to turn in a hard copy of your design.

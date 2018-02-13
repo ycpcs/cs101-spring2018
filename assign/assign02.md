@@ -7,9 +7,9 @@ title: "Assignment 2: Let's Make A Deal"
 
 * Milestone 1:
     * Design due: **Tuesday, Feb 6th** in class
-    * Code due: **Friday, Feb 9h** by 11:59 PM
+    * Code due: **Friday, Feb 9th** by 11:59 PM
 * Milestone 2:
-    * Design due: **Thursday, Feb 15th** in class
+    * Design due: **Tuesday, Feb 20th** in class
     * Code due: **Friday, Feb 23rd** by 11:59 PM
 
 Getting Started

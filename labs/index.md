@@ -5,10 +5,7 @@ title: "Labs"
 
 This page lists the lab activities.
 
-Labs are worth 10% of your course grade.  To receive credit for a lab, you must:
-
-* Get a sign-off for completing the lab's design artifact; make sure you have this at the beginning of class on the day we work on the lab
-* Get a sign-off on the completed program; full credit if you get this sign off by the end of the *next* class (after the day we work on the lab), 80% of full credit if you get the sign off before the next exam
+Labs are worth 10% of your course grade.  To receive credit for a lab, you must get a sign-off on the completed program; full credit if you get this sign off by the end of the *next* class (after the day we work on the lab), 80% of full credit if you get the sign off before the next exam
 
 > Date | Lab | File
 > ---- | --- | ----
@@ -52,3 +49,7 @@ Labs are worth 10% of your course grade.  To receive credit for a lab, you must:
 > &mdash; | [Lab 11: More Array Exercises](lab11.html) | n/a
 > &mdash; | [Lab 15: Functions reading/modifying exercise](lab15.html) | [CS101\_Lab15.zip](CS101_Lab15.zip)
 -->
+
+<!-- vim:set wrap: -->
+<!-- vim:set linebreak: -->
+<!-- vim:set nolist: -->

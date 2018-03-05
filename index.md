@@ -39,6 +39,7 @@ All information about the course will be posted here.
 
 ## News
 
+* **Mar 5** &mdash; Exam 2 will take place in class on **Tuesday, Mar 13th**.  A practice exam has been posted on the [Practice Exams](practice/index.html) page.
 * **Mar 5** &mdash; The due date for [Assignment 3](assign/assign03.html) has been moved to **Monday, Mar 12th**.
 * **Feb 13** &mdash; The due date for the [Assignment 2](assign/assign02.html), Milestone 2 design artifact has been moved to **Tuesday, Feb 20th**.
 * **Feb 7** &mdash; A solution to the first practice exam has been posted on the [Practice Exams](practice/index.html) page.

@@ -11,3 +11,4 @@ Jan 23 | [birthday.cpp](birthday.cpp) | read in and print out user's birthday
 Jan 25 | [average.cpp](average.cpp) | compute average of four numbers
 Feb 1 | [ticket.cpp](ticket.cpp) | Compute ticket price based on age
 Feb 20 | [guess.cpp](guess.cpp) | Guessing game using while loop
+Mar 6 | [rectangle.cpp](rectangle.cpp) | Draw an outlined rectangle

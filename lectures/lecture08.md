@@ -92,13 +92,13 @@ In the nested loops we have discussed so far, the inner loop in a pair of nested
 In a triangular loop, the number of iterations the inner loop executes depends on the value of the outer loop's loop variable. For example:
 
 {% highlight cpp %}
-int height, j, i;
+int height, i, j;
 
 printf("height of triangle: ");
 scanf("%i", &height);
 
-for (j = 0; j < height; j++) {
-    for (i = 0; i <= j; i++) {
+for (i = 1; i <= height; i++) {
+    for (j = 1; j <= i; j++) {
         printf("*");
     }
     printf("\n");

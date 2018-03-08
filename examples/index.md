@@ -12,3 +12,5 @@ Jan 25 | [average.cpp](average.cpp) | compute average of four numbers
 Feb 1 | [ticket.cpp](ticket.cpp) | Compute ticket price based on age
 Feb 20 | [guess.cpp](guess.cpp) | Guessing game using while loop
 Mar 6 | [rectangle.cpp](rectangle.cpp) | Draw an outlined rectangle
+Mar 8 | [test\_prime.cpp](test_prime.cpp) | Determine whether integer is prime, find factors
+Mar 8 | [checkerboard.cpp](checkerboard.cpp) | Print a checkerboard pattern

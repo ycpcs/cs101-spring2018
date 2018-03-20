@@ -15,3 +15,4 @@ Mar 6 | [rectangle.cpp](rectangle.cpp) | Draw an outlined rectangle
 Mar 8 | [test\_prime.cpp](test_prime.cpp) | Determine whether integer is prime, find factors
 Mar 8 | [checkerboard.cpp](checkerboard.cpp) | Print a checkerboard pattern
 Mar 15 | [temperatures.cpp](temperatures.cpp) | Read temperatures into array, find high temperature
+Mar 20 | [plate.cpp](plate.cpp) | Simulate heat transfer on a rectangular plate

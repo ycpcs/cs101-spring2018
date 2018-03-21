@@ -39,6 +39,7 @@ All information about the course will be posted here.
 
 ## News
 
+* **Mar 21** &mdash; The assignment description for [Assignment 4](assign/assign04.html) has been updated.
 * **Mar 7** &mdash; A solution to the second practice exam is available on the [Practice Exams](practice/index.html) page.
 * **Mar 5** &mdash; Exam 2 will take place in class on **Tuesday, Mar 13th**.  A practice exam has been posted on the [Practice Exams](practice/index.html) page.
 * **Mar 5** &mdash; The due date for [Assignment 3](assign/assign03.html) has been moved to **Monday, Mar 12th**.

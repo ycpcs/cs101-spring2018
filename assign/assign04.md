@@ -7,6 +7,8 @@ Design due in class on **Tuesday, Mar 20th**
 
 Code due **Tues, Mar 27th** by 11:59 PM
 
+*Updated 3/21* &mdash; Changed grading criteria for assign a point value to the design artifact
+
 # Getting Started
 
 Start by downloading [CS101\_Assign04.zip](CS101_Assign04.zip), saving it in the directory **H:\\CS101**.
@@ -101,11 +103,12 @@ Use a third for loop to print out the configuration of the playing field after t
 
 Out of 100 points:
 
--   Declaration of an array to represent the playing field: 10
--   Loop to read a value for each position of the playing field: 10
--   Store each position value in the appropriate array element: 10
--   Loop to print a "picture" (line of text) of the playing field: 10
--   Tip first domino, print dominos: 10
+-   Design artifact: 10
+-   Declaration of an array to represent the playing field: 8
+-   Loop to read a value for each position of the playing field: 8
+-   Store each position value in the appropriate array element: 8
+-   Loop to print a "picture" (line of text) of the playing field: 8
+-   Tip first domino, print dominos: 8
 -   One timestep:
     -   Loop to change successors of tipping dominoes to "ready to tip": 10
     -   Loop to change "ready to tip" to tipping: 10

@@ -39,7 +39,9 @@ All information about the course will be posted here.
 
 ## News
 
-* **Mar 23** &mdash; The deadline for submitting the code for [Assignment 4](assign/assign04.html) has been extended to **Thursday, Apr 5th**.
+* **Mar 23** &mdash; Due to the cancellation of classes on Thursday, we are making the following adjustments:
+    * The [Schedule](schedule.html) has been updated
+    * The deadline for submitting the code for [Assignment 4](assign/assign04.html) has been extended to **Thursday, Apr 5th**
 * **Mar 21** &mdash; The assignment description for [Assignment 4](assign/assign04.html) has been updated.
 * **Mar 7** &mdash; A solution to the second practice exam is available on the [Practice Exams](practice/index.html) page.
 * **Mar 5** &mdash; Exam 2 will take place in class on **Tuesday, Mar 13th**.  A practice exam has been posted on the [Practice Exams](practice/index.html) page.

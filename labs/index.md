@@ -26,16 +26,17 @@ Labs are worth 10% of your course grade.  To receive credit for a lab, you must 
 > Mar 13 | **Exam 2**
 > Mar 15 | [Lab 12: Array Exercises](lab12.html) | n/a
 > Mar 20 | [Lab 13: Kitten Pictures](lab13.html) | [CS101\_Lab13.zip](CS101_Lab13.zip)
-> Mar 22 | [Lab 14: Right Triangle](lab14.html) | [CS101\_Lab14.zip](CS101_Lab14.zip)
-> Mar 27 | [Lab 15: Simple Stats](lab15.html) | [CS101\_Lab15.zip](CS101_Lab15.zip)
+> Mar 22 | *Snow day, no class*
+> Mar 27 | [Lab 14: Right Triangle](lab14.html) | [CS101\_Lab14.zip](CS101_Lab14.zip) | 
 > Mar 29 | *Spring vacation, no class*
-> Apr 3 | [Lab 16: Function Design](lab16.html) | [CS101\_Lab16.zip](CS101_Lab16.zip)
-> Apr 5 | [Lab 17: Grass Fire](lab17.html) | [CS101\_Lab17.zip](CS101_Lab17.zip)
-> Apr 10 | **Exam 3**
-> Apr 12 | [Lab 18: Fancy Output](lab18.html)<br>[Lab 19: Boing!](lab19.html) | [CS101\_Lab18.zip](CS101_Lab18.zip)<br>[CS101\_Lab19.zip](CS101_Lab19.zip)
-> Apr 19 | [Lab 21: Boing! revisited](lab21.html) | [CS101\_Lab21.zip](CS101_Lab21.zip)
-> Apr 21 | [Lab 23: Boing! with pointers](lab23.html) | [CS101\_Lab23.zip](CS101_Lab23.zip)
-> Apr 24 | [Lab 25: Boing! particle simulation](lab25.html) | [CS101\_Lab25.zip](CS101_Lab25.zip)
+> Apr 3 | Catch up day | &mdash; | &mdash;
+> Apr 5 | [Lab 15: Simple Stats](lab15.html)<br>[Lab 16: Function Design](lab16.html) | [CS101\_Lab15.zip](CS101_Lab15.zip)<br>[CS101\_Lab16.zip](CS101_Lab16.zip)
+> Apr 10 | [Lab 17: Grass Fire](lab17.html) | [CS101\_Lab17.zip](CS101_Lab17.zip)
+> Apr 12 | **Exam 3**
+> Apr 19 | [Lab 18: Fancy Output](lab18.html)<br>[Lab 19: Boing!](lab19.html) | [CS101\_Lab18.zip](CS101_Lab18.zip)<br>[CS101\_Lab19.zip](CS101_Lab19.zip)
+> Apr 21 | [Lab 21: Boing! revisited](lab21.html) | [CS101\_Lab21.zip](CS101_Lab21.zip)
+> Apr 24 | [Lab 23: Boing! with pointers](lab23.html) | [CS101\_Lab23.zip](CS101_Lab23.zip)
+> Apr 26 | [Lab 25: Boing! particle simulation](lab25.html) | [CS101\_Lab25.zip](CS101_Lab25.zip)
 
 <!--
 > Apr 25 | [Lab 22: Complex numbers](lab22.html) | [CS101\_Lab22.zip](CS101_Lab22.zip)

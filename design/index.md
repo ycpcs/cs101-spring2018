@@ -14,3 +14,4 @@ Example designs:
 * [Lab 3 Design](lab03-design.pdf)
 * [Lab 4 Design](lab04-design.pdf)
 * [Assignment 2, MS1 Design](assign02-ms1-design.pdf)
+* [Assignment 4 design](assign04-design.pdf)

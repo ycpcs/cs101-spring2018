@@ -39,6 +39,7 @@ All information about the course will be posted here.
 
 ## News
 
+* **Apr 3** &mdash; A correction has been made to the [reference design](design/assign04-design.pdf) for [Assignment 4](assign/assign04.html).  (See second page.)
 * **Mar 28** &mdash; A reference design for [Assignment 4](assign/assign04.html) has been posted to the [Design information](design/index.html) page.
 * **Mar 27** &mdash; The [Lab schedule](labs/index.html) has been updated.
 * **Mar 23** &mdash; Exam 3 will take place in class on **Thursday, Apr 12th**.  A practice exam is available on the [Practice Exams](practice/index.html) page.

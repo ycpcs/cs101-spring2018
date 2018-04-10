@@ -17,3 +17,4 @@ Mar 8 | [checkerboard.cpp](checkerboard.cpp) | Print a checkerboard pattern
 Mar 15 | [temperatures.cpp](temperatures.cpp) | Read temperatures into array, find high temperature
 Mar 20 | [plate.cpp](plate.cpp) | Simulate heat transfer on a rectangular plate
 Mar 27 | [box.cpp](box.cpp) | Draw an outlined box using functions
+Apr 10 | [values.cpp](values.cpp) | Read/print values using arrays/functions

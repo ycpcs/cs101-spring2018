@@ -39,6 +39,7 @@ All information about the course will be posted here.
 
 ## News
 
+* **Apr 12** &mdash; [Assignment 5](assign/assign05.html) has been posted.  The due dates are still to be determined.
 * **Apr 10** &mdash; A solution to the third practice exam has been posted on the [Practice Exams](practice/index.html) page.
 * **Apr 3** &mdash; A correction has been made to the [reference design](design/assign04-design.pdf) for [Assignment 4](assign/assign04.html).  (See second page.)
 * **Mar 28** &mdash; A reference design for [Assignment 4](assign/assign04.html) has been posted to the [Design information](design/index.html) page.

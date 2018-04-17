@@ -19,3 +19,4 @@ Mar 20 | [plate.cpp](plate.cpp) | Simulate heat transfer on a rectangular plate
 Mar 27 | [box.cpp](box.cpp) | Draw an outlined box using functions
 Apr 10 | [values.cpp](values.cpp) | Read/print values using arrays/functions
 Apr 10 | [values2.cpp](values2.cpp) | Read values, compute mean using arrays/functions
+Apr 17 | [powerof2.cpp](powerof2.cpp) | Compute power of 2 using pointer/reference parameter

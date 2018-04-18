@@ -140,6 +140,8 @@ struct Snake {
 
 When the game starts, the snake should have 8 segments.
 
+To get a sense of how an 8-segment snake would be represented, please refer to the [Assignment 5 data representation](../design/assign05datarepresentation.pdf) document.
+
 The game should allow the snake to have up to 100 segments, so the `MAX_SEGMENTS` constant should be defined as 100.
 
 Moving the snake is conceptually quite simple: a new head segment is added, based on the location of the current head segment and the snake's direction of motion.  If the length of the snake isn't changing (meaning that the snake did not eat a piece of fruit, or the snake is already at the maximum length), then the "tail" segment should be removed by calling the `snake_remove_tail` function.  Adding a new head segment should be done by calling the `snake_append_head` function.

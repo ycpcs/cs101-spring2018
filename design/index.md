@@ -16,3 +16,4 @@ Example designs:
 * [Assignment 2, MS1 Design](assign02-ms1-design.pdf)
 * [Assignment 4 design](assign04-design.pdf)
 * [triangle\_area design](triangle_area.pdf) (Example of specifying input/output for a function)
+* [Assignment 5 data representation](assign05datarepresentation.pdf)

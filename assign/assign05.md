@@ -5,9 +5,9 @@ title: "Assignment 5: Snake"
 
 **Due dates**:
 
-Design artifacts due on *TBD*
+Design artifacts due on **Thursday, April 26th**
 
-Code due on *TBD*
+Code due on **Friday, May 4th**
 
 # Getting Started
 
@@ -188,15 +188,9 @@ Each time the snake eats a piece of fruit, the player earns a number of points e
 
 # Design artifacts
 
-The design artifacts are due in class on **Tuesday, April 25th** for the following functions:
+The design artifacts are due in class on **Thursday, April 26th** for the following functions:
 * `snake_append_head`
 * `snake_remove_tail`
-
-The design artifacts are due in class on **Thursday, April 27th** for the following functions:
-* `snake_init`
-* `update_scene`
-
-So, make sure that you have *two* design artifacts for each day - *four* design artifacts in total.
 
 # Grading
 

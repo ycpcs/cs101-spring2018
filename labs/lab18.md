@@ -68,9 +68,7 @@ You can draw solid blocks of color by using **cons\_change\_color** to set the b
 Submit
 ======
 
-You are not required to submit this lab.
-
-However, if you would *like* to submit this lab for your own records, run the command
+Submit using
 
     make submit
 

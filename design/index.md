@@ -17,3 +17,4 @@ Example designs:
 * [Assignment 4 design](assign04-design.pdf)
 * [triangle\_area design](triangle_area.pdf) (Example of specifying input/output for a function)
 * [Assignment 5 data representation](assign05datarepresentation.pdf)
+* [Assignment 5 snake\_remove\_tail function](assign05-removetail.pdf)

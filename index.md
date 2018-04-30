@@ -39,6 +39,7 @@ All information about the course will be posted here.
 
 ## News
 
+* **Apr 30** &mdash; A solution to the fourth practice exam has been posted on the [Practice Exams](practice/index.html) page.
 * **Apr 18** &mdash; The due dates for [Assignment 5](assign/assign05.html) are:
     * Design artifacts due on Thursday, Apr 26th
     * Code due on Friday, May 4th

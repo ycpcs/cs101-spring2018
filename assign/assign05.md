@@ -3,6 +3,8 @@ layout: default
 title: "Assignment 5: Snake"
 ---
 
+*Update 5/3*: updated grading rubric to include design artifacts
+
 **Due dates**:
 
 Design artifacts due on **Thursday, April 26th**
@@ -200,13 +202,14 @@ Your grade will be determined according to the following criteria:
 
 Standard features (complete these for full credit on the assignment):
 
+* design artifacts: 10
 * `struct Scene` has representation of snake: 5
 * snake is displayed: 15
 * snake moves: 20
-* player can control snake: 25
-* game ends when snake goes out of bounds: 10
-* game ends when snake's head collides with its body: 10
-* pressing `q` ends the program: 5
+* player can control snake: 20
+* game ends when snake goes out of bounds: 8
+* game ends when snake's head collides with its body: 8
+* pressing `q` ends the program: 4
 * good coding style: 10
 
 Extra credit features (complete these for up to 40 points of extra credit):

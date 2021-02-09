@@ -167,7 +167,7 @@ int main(void) {
     srand(time(0));
     int r, g, b;
     make_rand_color(&r, &g, &b);
-    printf("Your color is #%2x%2x%2x\n", r, g, b);
+    printf("Your color is #%02x%02x%02x\n", r, g, b);
     return 0;
 }
 
@@ -180,7 +180,7 @@ void make_rand_color(int *rp, int *gp, int *bp) {
 
 In the **main** function, we pass the addresses of the variables **r**, **g**, and **b** to the **make\_rand\_color** function, which receives them as the parameters **rp**, **gp**, and **bp**. The **make\_rand\_color** function then assigns random values to the variables pointed to by its parameters.
 
-Note that the **%x** conversion prints an integer value using hexidecimal, which is a base 16 representation where the digits a-f represent the values 10 through 15.
+Note that the **%x** conversion prints an integer value using hexadecimal, which is a base 16 representation where the digits a-f represent the values 10 through 15.
 
 A sample run of this program produced the output
 
